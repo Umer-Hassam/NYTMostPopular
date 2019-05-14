@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYTMostPopular</string>
+    <string name="title_article_detail">Article Detail</string>
+
+    <!-- NYT API Configurations -->
+    <string name="api_base_url">http://api.nytimes.com/svc/</string>
+    <string name="api_end_point_most_pop">mostpopular/v2/mostviewed/</string>
+    <string name="api_key">cw0v7CuD58CAvh46wynLdzuUhNq6GmAO</string>
+
+</resources>
