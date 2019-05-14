@@ -1,7 +1,5 @@
 # NYTMostPopular
 
-![alt text](https://i.imgur.com/Eq76cMf.png) ![alt text](https://drive.google.com/open?id=1eeqa--g6nXFT-E9-uRGc4bXgVNT_juLu)
-
 As per the reqirement NYTMostPopular displays the most popular articles from the New York Times API in a traditionl master-detail view.
 
 ###### Best practices used in the app
@@ -28,3 +26,7 @@ As per the reqirement NYTMostPopular displays the most popular articles from the
    - If the green button isn't there (which sometimes happens when AS is performing background tasks) the test can be run by right-clicking on the file and selecting "Run 'ExampleUnitTest' "
 4. **Coverage Report** Test can be run with *coverage* to read the coverage report as reqired
    - The test report will appear in a saperate pane on the left side of the code editor.
+
+###### Screenshots
+![alt text](https://i.imgur.com/Eq76cMf.png)
+![alt text](https://i.imgur.com/7eagUbO.png)
