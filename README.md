@@ -1,6 +1,6 @@
 # NYTMostPopular
 
-![alt text](https://drive.google.com/open?id=11vfGVP6mlHhDtos13sED_hC4HlVh_A5c) ![alt text](https://drive.google.com/open?id=1eeqa--g6nXFT-E9-uRGc4bXgVNT_juLu)
+![alt text](https://i.imgur.com/Eq76cMf.png) ![alt text](https://drive.google.com/open?id=1eeqa--g6nXFT-E9-uRGc4bXgVNT_juLu)
 
 As per the reqirement NYTMostPopular displays the most popular articles from the New York Times API in a traditionl master-detail view.
 
